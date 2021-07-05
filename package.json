@@ -1,0 +1,22 @@
+{
+  "name": "@teddir/validasinomorbank",
+  "version": "1.0.0",
+  "description": "add my package ngab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tokorame-Dev/validasiNomorBank.git"
+  },
+  "keywords": [
+    "validasibank"
+  ],
+  "author": "teddir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tokorame-Dev/validasiNomorBank/issues"
+  },
+  "homepage": "https://github.com/Tokorame-Dev/validasiNomorBank#readme"
+}
