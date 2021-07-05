@@ -82,7 +82,7 @@ function validateBankId(str, number) {
   })
   // console.log(bank)
   if (bank === []) {
-    console.log('Maaf nama bank tidak ditemukan')
+    console.log('Maaf nama banks tidak ditemukan')
   } return bank
 }
 
