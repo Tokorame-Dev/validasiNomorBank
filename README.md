@@ -10,7 +10,7 @@ Then...
 
 ```
 
-import { validateBankId } from 'validateBankId';
+import { validateBankId } from '@teddir/validasibankindo';
 
 validateBankId(name_bank, number_bank)
 
