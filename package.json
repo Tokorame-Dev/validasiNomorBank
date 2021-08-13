@@ -1,7 +1,7 @@
 {
   "name": "@teddir/validasinomorbank",
-  "version": "1.0.2",
-  "description": "add my package ngab",
+  "version": "1.0.4",
+  "description": "add my package ngab, semoga bermanfaat",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

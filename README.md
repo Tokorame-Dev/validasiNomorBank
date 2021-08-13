@@ -12,7 +12,7 @@ Then...
 
 import { validateBankId } from '@teddir/validasinomorbank';
 
-validateBankId(name_bank, number_bank)
+validateBankId(number_bank)
 
 ```
 
