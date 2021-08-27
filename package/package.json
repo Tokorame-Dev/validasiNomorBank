@@ -1,22 +1,28 @@
 {
   "name": "@teddir/validasinomorbank",
-  "version": "1.0.4",
+  "version": "1.0.8",
   "description": "add my package ngab, semoga bermanfaat",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Tokorame-Dev/validasiNomorBank.git"
   },
   "keywords": [
-    "validasibank"
+    "validasibank",
+    "bank",
+    "validator"
   ],
   "author": "teddir",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Tokorame-Dev/validasiNomorBank/issues"
   },
-  "homepage": "https://github.com/Tokorame-Dev/validasiNomorBank#readme"
+  "homepage": "https://github.com/Tokorame-Dev/validasiNomorBank#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "jest": "^27.0.6"
+  }
 }
